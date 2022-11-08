@@ -27,7 +27,7 @@ class GoogleSuggestions extends Component {
     )
 
     return (
-       <div className="app-container"></div>
+       <div className="app-container">
       <div >
         <img
           src="https://assets.ccbp.in/frontend/react-js/google-logo.png"
@@ -60,6 +60,7 @@ class GoogleSuggestions extends Component {
           </ul>
         </div>
       </div>
+</div>
     )
   }
 }
